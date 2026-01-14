@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "紫",
+  "base_artist": "TOOBOE",
+  "createdAt": "2026-01-14T08:42:24.772943Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "紫 (Live)",
+      "artist": "郭沁",
+      "has_synced": true,
+      "path": "select/01_紫_(Live)_郭沁.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "紫 - 电影《悟空传》插曲",
+      "artist": "蔡健雅",
+      "has_synced": true,
+      "path": "select/02_紫_-_电影《悟空传》插曲_蔡健雅.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "紫 - 电影《悟空传》插曲",
+      "artist": "Tanya Chua",
+      "has_synced": true,
+      "path": "select/03_紫_-_电影《悟空传》插曲_Tanya_Chua.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "紫",
+      "artist": "陳一發兒",
+      "has_synced": true,
+      "path": "select/04_紫_陳一發兒.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "某夜 (feat. 紫 今)",
+      "artist": "4na",
+      "has_synced": false,
+      "path": "select/05_某夜_(feat._紫_今)_4na.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "紫",
+      "artist": "一颗狼星",
+      "has_synced": false,
+      "path": "select/06_紫_一颗狼星.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "某夜 (feat.紫 今)",
+      "artist": "4na",
+      "has_synced": true,
+      "path": "select/07_某夜_(feat.紫_今)_4na.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "紫",
+      "artist": "TOOBOE",
+      "has_synced": true,
+      "path": "select/08_紫_TOOBOE.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "紫",
+      "artist": "NECRY TALKIE",
+      "has_synced": true,
+      "path": "select/09_紫_NECRY_TALKIE.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "紫 (片中版)",
+      "artist": "蔡健雅",
+      "has_synced": true,
+      "path": "select/10_紫_(片中版)_蔡健雅.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "紫-(电影《悟空传》插曲)",
+      "artist": "蔡健雅",
+      "has_synced": true,
+      "path": "select/11_紫-(电影《悟空传》插曲)_蔡健雅.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "紫",
+      "artist": "蔡健雅",
+      "has_synced": true,
+      "path": "select/12_紫_蔡健雅.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "紫",
+      "artist": "女王蜂",
+      "has_synced": false,
+      "path": "select/13_紫_女王蜂.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "紫。「tripping into maturity」",
+      "artist": "ZeWei",
+      "has_synced": true,
+      "path": "select/14_紫。「tripping_into_maturity」_ZeWei.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "紫",
+      "artist": "TOOBOE",
+      "has_synced": false,
+      "path": "select/pl_01_紫_TOOBOE.txt"
+    }
+  ]
+}
